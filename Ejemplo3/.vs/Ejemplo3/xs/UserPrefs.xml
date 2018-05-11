@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{63DB18BA-9147-4959-89B7-F5F0ADD8A8BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejemplo3/Suma.cs">
+    <Files>
+      <File FileName="Ejemplo3/Program.cs" Line="15" Column="121" />
+      <File FileName="Ejemplo3/Suma.cs" Line="5" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ejemplo3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

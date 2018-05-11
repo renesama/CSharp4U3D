@@ -1,0 +1,6 @@
+/Users/rene/Sharp/Ejemplo2/Ejemplo2/bin/Debug/Ejemplo2.exe
+/Users/rene/Sharp/Ejemplo2/Ejemplo2/bin/Debug/Ejemplo2.pdb
+/Users/rene/Sharp/Ejemplo2/Ejemplo2/obj/x86/Debug/Ejemplo2.csprojResolveAssemblyReference.cache
+/Users/rene/Sharp/Ejemplo2/Ejemplo2/obj/x86/Debug/Ejemplo2.csproj.CoreCompileInputs.cache
+/Users/rene/Sharp/Ejemplo2/Ejemplo2/obj/x86/Debug/Ejemplo2.exe
+/Users/rene/Sharp/Ejemplo2/Ejemplo2/obj/x86/Debug/Ejemplo2.pdb

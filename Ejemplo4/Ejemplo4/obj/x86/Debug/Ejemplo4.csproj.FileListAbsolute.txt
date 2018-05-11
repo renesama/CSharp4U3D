@@ -1,0 +1,6 @@
+/Users/rene/Sharp/CSharp4U3D/Ejemplo4/Ejemplo4/bin/Debug/Ejemplo4.exe
+/Users/rene/Sharp/CSharp4U3D/Ejemplo4/Ejemplo4/bin/Debug/Ejemplo4.pdb
+/Users/rene/Sharp/CSharp4U3D/Ejemplo4/Ejemplo4/obj/x86/Debug/Ejemplo4.csprojResolveAssemblyReference.cache
+/Users/rene/Sharp/CSharp4U3D/Ejemplo4/Ejemplo4/obj/x86/Debug/Ejemplo4.csproj.CoreCompileInputs.cache
+/Users/rene/Sharp/CSharp4U3D/Ejemplo4/Ejemplo4/obj/x86/Debug/Ejemplo4.exe
+/Users/rene/Sharp/CSharp4U3D/Ejemplo4/Ejemplo4/obj/x86/Debug/Ejemplo4.pdb
